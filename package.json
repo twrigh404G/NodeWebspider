@@ -1,0 +1,19 @@
+{
+  "name": "nodewebspider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twrigh404G/NodeWebspider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twrigh404G/NodeWebspider/issues"
+  },
+  "homepage": "https://github.com/twrigh404G/NodeWebspider#readme"
+}
