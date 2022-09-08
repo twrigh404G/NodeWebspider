@@ -2,6 +2,7 @@
   "name": "nodewebspider",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,8 +18,10 @@
   },
   "homepage": "https://github.com/twrigh404G/NodeWebspider#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "filenamify-url": "^3.0.0",
     "mkdirp": "^1.0.4",
+    "slug": "^8.0.0",
     "superagent": "^8.0.0"
   }
 }
